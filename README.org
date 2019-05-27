@@ -1,6 +1,6 @@
-Welcome to the Engineering Project Intelligence Coordination system.
+Welcome to the *Engineering Project Intelligence Coordination* system!
 
-The EPIC system is designed to provide a platform and set of tools 
+The *EPIC* system is designed to provide a platform and set of tools 
 to aid in the collective coordination of information relating to
 the process of accomplishing engineering tasks.
 
@@ -12,6 +12,8 @@ What EPIC aims to do different:
    - Embodies literate programming concept
    - Documentation and code co-exist
    - Documentation drives specification
+
+- STITS development
    - Specification instructs testing
    - Testing drives implementation
    - Implementation confirms testing
