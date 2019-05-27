@@ -1,0 +1,19 @@
+Welcome to the Engineering Project Intelligence Coordination system.
+
+The EPIC system is designed to provide a platform and set of tools 
+to aid in the collective coordination of information relating to
+the process of accomplishing engineering tasks.
+
+TLDR; Yet Another Project Management Tool
+
+What EPIC aims to do different:
+
+- Documentation-first approach
+   - Embodies literate programming concept
+   - Documentation and code co-exist
+   - Documentation drives specification
+   - Specification instructs testing
+   - Testing drives implementation
+   - Implementation confirms testing
+   - Testing confirms specification
+   - Specification confirms documentation
